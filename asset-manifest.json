@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nicholeonardo13.github.io/static/css/main.ce37cdc7.chunk.css",
+    "main.js": "/nicholeonardo13.github.io/static/js/main.e88dda28.chunk.js",
+    "main.js.map": "/nicholeonardo13.github.io/static/js/main.e88dda28.chunk.js.map",
+    "runtime-main.js": "/nicholeonardo13.github.io/static/js/runtime-main.29592d95.js",
+    "runtime-main.js.map": "/nicholeonardo13.github.io/static/js/runtime-main.29592d95.js.map",
+    "static/js/2.8b5355c1.chunk.js": "/nicholeonardo13.github.io/static/js/2.8b5355c1.chunk.js",
+    "static/js/2.8b5355c1.chunk.js.map": "/nicholeonardo13.github.io/static/js/2.8b5355c1.chunk.js.map",
+    "static/js/3.5aeb07a8.chunk.js": "/nicholeonardo13.github.io/static/js/3.5aeb07a8.chunk.js",
+    "static/js/3.5aeb07a8.chunk.js.map": "/nicholeonardo13.github.io/static/js/3.5aeb07a8.chunk.js.map",
+    "index.html": "/nicholeonardo13.github.io/index.html",
+    "static/css/main.ce37cdc7.chunk.css.map": "/nicholeonardo13.github.io/static/css/main.ce37cdc7.chunk.css.map",
+    "static/js/2.8b5355c1.chunk.js.LICENSE.txt": "/nicholeonardo13.github.io/static/js/2.8b5355c1.chunk.js.LICENSE.txt",
+    "static/media/fotoKotak.2c5988a9.jpg": "/nicholeonardo13.github.io/static/media/fotoKotak.2c5988a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29592d95.js",
+    "static/js/2.8b5355c1.chunk.js",
+    "static/css/main.ce37cdc7.chunk.css",
+    "static/js/main.e88dda28.chunk.js"
+  ]
+}
