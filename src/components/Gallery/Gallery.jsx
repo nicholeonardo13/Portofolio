@@ -31,10 +31,7 @@ const Gallery = (props) => {
               <Card.Img variant='top' src={ships} />
               <Card.Body>
                 <Card.Title>The Ships</Card.Title>
-                <Card.Text>
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
-                </Card.Text>
+                <Card.Text>React.js with with Graphql and Tesla API.</Card.Text>
               </Card.Body>
             </Card>
           </Col>
