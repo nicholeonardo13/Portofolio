@@ -2,11 +2,11 @@ import { Col, Container, Row } from "react-bootstrap";
 
 const About = (props) => {
   return (
-    <div>
+    <div className='pt-5'>
       <Container>
         <Row className='text-center'>
-          <Col>
-            <h2 className='mb-4'>About Me</h2>
+          <Col className='mb-4'>
+            <h2>About Me</h2>
           </Col>
           <Row className='justify-content-center fs-6 text-center'>
             <Col md={4}>
