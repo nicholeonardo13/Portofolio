@@ -2,7 +2,7 @@ import "./Gallery.css";
 import ooveo from "../../img/ooveo-gallery.jpg";
 import kongbu from "../../img/bank-gallery.jpg";
 import ships from "../../img/ship-gallery.jpg";
-import { Card, Col, Container, Row, Button } from "react-bootstrap";
+import { Card, Col, Container, Row } from "react-bootstrap";
 
 const Gallery = (props) => {
   return (
